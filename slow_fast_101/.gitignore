@@ -1,0 +1,11 @@
+*.env
+/data/
+/cut_videos/
+/__pycache__/
+note.py
+/label_maps/
+*.mp4
+*.mp3
+*.wav
+*.pth
+*.yaml
