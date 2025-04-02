@@ -24,13 +24,10 @@
 4. Typecast를 이용해 TTS 처리
 5. 생성된 음성 피드백을 차량 내 스피커로 출력
 
-![서비스 아키텍처](#)
-
-
 
 ## 🧾 사용 데이터셋
 
-본 프로젝트는 [Drive&Act Dataset](https://www.hcai.kit.edu/english/driveandact.php)을 사용하여 훈련 및 테스트를 진행했습니다.
+본 프로젝트는 [Drive&Act Dataset](https://publica.fraunhofer.de/home)을 사용하여 훈련 및 테스트를 진행했습니다.
 
 - 약 20~25분 길이의 15개 RGB 영상 활용
 - 총 6,617개의 영상 클립 생성 (frame 단위로 분할)
